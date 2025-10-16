@@ -1,0 +1,11 @@
+{
+  "name": "cf-leaderboard-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "wrangler pages dev public --binding MONGODB_URI=$MONGODB_URI"
+  },
+  "dependencies": {
+    "mongodb": "^6.6.2"
+  }
+}
