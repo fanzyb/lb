@@ -1,0 +1,6 @@
+name = "nama-worker-anda" # Ganti dengan nama Worker yang Anda inginkan
+
+# ... konfigurasi lain jika ada ...
+
+[compatibility_flags]
+nodejs_compat = true
